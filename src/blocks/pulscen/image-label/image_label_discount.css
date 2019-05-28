@@ -1,0 +1,6 @@
+.aui-img-label_discount {
+  background: url('discount_label.svg') no-repeat;
+  color: var(--white);
+  width: 58px;
+  height: 21px;
+}
